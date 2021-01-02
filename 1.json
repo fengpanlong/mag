@@ -1,0 +1,44 @@
+{
+
+  "app": {
+
+    "version": "7.5.1",
+
+    "versionCode": "267",
+
+    "link": "https://by-han.coding.net/api/share/download/36811a6d-6dfc-4bd8-ab00-2d43ed01f29c",
+
+    "note": "https://gitee.com/QingFeiDeiYi/Magisk/raw/master/changelog.md"
+
+  },
+
+  "stub": {
+
+    "versionCode": "15",
+
+    "link": "https://by-han.coding.net/api/share/download/3eb668c6-b14b-4318-8467-8f09b2d7fa0e"
+
+  },
+
+  "uninstaller": {
+
+    "link": "https://by-han.coding.net/api/share/download/fd4dfb8d-fc3c-4c70-b03f-1dd058432e5f"
+
+  },
+
+  "magisk": {
+
+    "version": "2
+    1.2",
+
+    "versionCode": "21200",
+
+    "link": "https://by-han.coding.net/api/share/download/f0461e2c-bf20-46bb-970c-e51607af954f",
+
+    "note": "https://gitee.com/QingFeiDeiYi/Magisk/raw/master/notes.md",
+
+    "md5": "165b48cbd6fb2507bf74c820cccb9781"
+
+  }
+
+}
